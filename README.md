@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maram Dridi
 - 👀 I’m interested in learning how to improve my coding skills and I post my work
-- 🌱 I’m currently learning Java, python , html , css and js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, python , html , css and js and I work on frontend development
 - 📫 How to reach me : you can contact me on my email maramdr18@gmail.com
 
 <!---
